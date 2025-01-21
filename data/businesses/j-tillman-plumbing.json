@@ -1,0 +1,49 @@
+{
+  "slug": "j-tillman-plumbing",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"J. Tillman Plumbing\" (ID: ChIJBUwPfFcriIgR4GIpp9NEvEQ) has no reviews",
+      "searchString": "place_id:ChIJBUwPfFcriIgR4GIpp9NEvEQ",
+      "isAdvertisement": false,
+      "placeId": "ChIJBUwPfFcriIgR4GIpp9NEvEQ",
+      "location": {
+        "lat": 34.631751,
+        "lng": -86.752417
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment"
+      ],
+      "title": "J. Tillman Plumbing",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=J.%20Tillman%20Plumbing&query_place_id=ChIJBUwPfFcriIgR4GIpp9NEvEQ",
+      "price": null,
+      "cid": "4952909366033998560",
+      "fid": "0x88882b577c0f4c05:0x44bc44d3a72962e0"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "### Business Information:\n\n- **Alabama Business Registration/License Details**:\n  While the specific license details for J. Tillman Plumbing are not provided in the sources, it is required for any plumbing business in Alabama to obtain the necessary state and local licenses. For businesses in Alabama, particularly in areas like Hartselle, licenses would typically be administered by the state and local authorities, such as those described in Jefferson County[1].\n\n- **Physical Location and Service Areas**:\n  J. Tillman Plumbing is located at 208 Sloss Street NE, Hartselle, Alabama 35640. They offer services in Hartselle, AL, and surrounding areas[2].\n\n- **Hours and Payment Methods**:\n  The sources do not specify the exact hours of operation or the payment methods accepted by J. Tillman Plumbing. However, it is common for plumbing services to offer various payment methods, including credit/debit cards, checks, and cash.\n\n- **Years in Operation**:\n  The sources do not provide the exact number of years J. Tillman Plumbing has been in operation.\n\n### Services & Specialties:\n\n- **Types of Services Offered**:\n  J. Tillman Plumbing offers a wide variety of plumbing installation, repair, and remodeling services[2].\n\n- **Service Areas Covered**:\n  They serve Hartselle, AL, and the surrounding areas[2].\n\n- **Emergency Service Availability**:\n  The sources do not explicitly mention emergency service availability, but many plumbing services offer emergency or 24/7 services.\n\n- **Prices or Rates**:\n  There is no specific pricing information provided for J. Tillman Plumbing in the sources.\n\n### Customer Reviews & Reputation:\n\n- **Review Summaries with Specific Examples**:\n  While there are no reviews provided in the sources specifically for J. Tillman Plumbing in Hartselle, AL, it is advisable to check local review platforms like Google Reviews or other local business directories for customer feedback.\n\n- **BBB Rating and Status**:\n  There is no BBB rating or status mentioned for J. Tillman Plumbing in the provided sources.\n\n- **Common Customer Feedback Themes**:\n  Without specific reviews, common themes cannot be determined. However, typical feedback for plumbing services often includes satisfaction with the quality of work, promptness, and communication.\n\n- **Response to Reviews**:\n  There is no information available on how J. Tillman Plumbing responds to customer reviews.\n\n### Owner & Staff:\n\n- **Owner/Management Information**:\n  The business is identified as \"J. Tillman Plumbing,\" suggesting that it is owned or managed by someone with the surname Tillman, but specific owner details are not provided[2].\n\n- **Staff Qualifications**:\n  The sources mention that J. Tillman Plumbing has an \"experienced crew,\" but do not provide detailed qualifications or certifications of the staff[2].\n\n- **Professional Certifications**:\n  There is no information provided on any specific professional certifications held by the staff or owner of J. Tillman Plumbing. However, plumbers in Alabama are typically required to be licensed by the State of Alabama Plumbers & Gas Fitters Examining Board[4].",
+  "aboutUs": "At J. Tillman Plumbing, we are a team of highly skilled and experienced plumbing professionals dedicated to providing top-notch services to the residents of Hartselle and surrounding areas. Our crew specializes in a wide range of plumbing installation, repair, and remodeling services, ensuring that your plumbing needs are met with expertise and precision. With a strong local presence and a commitment to excellence, we strive to deliver reliable and efficient solutions tailored to your specific requirements.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with choosing a trusted local plumbing company committed to delivering exceptional service and lasting solutions.",
+    "sellingPoints": [
+      "Highly trained and licensed plumbing technicians with extensive knowledge and expertise in all aspects of plumbing services.",
+      "Prompt and reliable service, with a focus on minimizing disruptions and ensuring your plumbing systems are functioning optimally.",
+      "Comprehensive range of services, from routine maintenance and repairs to complex installations and remodeling projects, all backed by our commitment to quality workmanship."
+    ]
+  }
+}

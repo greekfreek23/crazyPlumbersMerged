@@ -1,0 +1,63 @@
+{
+  "slug": "d-and-c-plumbing",
+  "googleReviewsBySlug.json": [
+    {
+      "searchString": "place_id:ChIJYzb0-JIeiYgRe2qmBeM1WNE",
+      "name": "Natasha Smith",
+      "text": "So professional, polite and speedy.Fixed  every single drain in my home in under 20 minutes! Recommended things to keep it from happening again and very reasonably priced! 10/10 I would definitely recommend!",
+      "textTranslated": null,
+      "publishAt": "2 years ago",
+      "publishedAtDate": "2022-11-17T14:16:40.987Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUMtMzduTE9nEAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUMtMzduTE9nEAE!2m1!1s0x0:0xd15835e305a66a7b!3m1!1s2@1:CIHM0ogKEICAgIC-37nLOg%7CCgwIyITZmwYQsPzV1gM%7C?hl=en",
+      "reviewerId": "111399418963580909416",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111399418963580909416?hl=en",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWrL-bJIebUhgivoW-vN9z-_nQLh_z1l4CveKDCCRLYXxVj7zpx=s120-c-rp-mo-br100",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {
+        "null": "Yes"
+      },
+      "reviewDetailedRating": {},
+      "isAdvertisement": false,
+      "placeId": "ChIJYzb0-JIeiYgRe2qmBeM1WNE",
+      "location": {
+        "lat": 33.4503874,
+        "lng": -86.8797899
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment"
+      ],
+      "title": "D & C Plumbing",
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 1,
+      "url": "https://www.google.com/maps/search/?api=1&query=D%20%26%20C%20Plumbing&query_place_id=ChIJYzb0-JIeiYgRe2qmBeM1WNE",
+      "price": null,
+      "cid": "15084866201046116987",
+      "fid": "0x88891e92f8f43663:0xd15835e305a66a7b"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [
+    "drain"
+  ],
+  "firstReviewDate": "2022-11-17",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}

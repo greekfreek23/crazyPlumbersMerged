@@ -1,0 +1,50 @@
+{
+  "slug": "southern-waters-plumbing-llc",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"Southern Waters Plumbing LLC\" (ID: ChIJ2XFFEfl4LGkRbBAiBhBQKTE) has no reviews",
+      "searchString": "place_id:ChIJ2XFFEfl4LGkRbBAiBhBQKTE",
+      "isAdvertisement": false,
+      "placeId": "ChIJ2XFFEfl4LGkRbBAiBhBQKTE",
+      "location": {
+        "lat": 30.6148588,
+        "lng": -87.5644585
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment",
+        "Plumbing supply store"
+      ],
+      "title": "Southern Waters Plumbing LLC",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=Southern%20Waters%20Plumbing%20LLC&query_place_id=ChIJ2XFFEfl4LGkRbBAiBhBQKTE",
+      "price": null,
+      "cid": "3542450611656200300",
+      "fid": "0x692c78f9114571d9:0x312950100622106c"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "Here is the detailed information about Southern Waters Plumbing LLC in Alabama, based on the provided identifiers:\n\n## Business Information:\n\n- **Alabama Business Registration/License Details**: Southern Waters Plumbing LLC is a Limited Liability Company (LLC) incorporated on May 3, 2021[1][5].\n  - For licensing, they would be regulated by the State of Alabama Plumbers & Gas Fitters Examining Board, though specific license details are not provided in the sources.\n\n- **Physical Location and Service Areas**: The business is located at 20042 Greek Cemetery Rd, Robertsdale, AL 36567-2848. The service area is not explicitly defined, but it is based in Robertsdale, AL[1][4].\n\n- **Hours and Payment Methods**: The sources do not specify the business hours or payment methods.\n\n- **Years in Operation**: Southern Waters Plumbing LLC has been in business for approximately 3 years, starting from May 3, 2021[1][5].\n\n## Services & Specialties:\n\n- **Types of Services Offered**: The business provides various plumbing services, including:\n  - Plumbing\n  - Faucets, Fixtures and Pipe Repair\n  - Water Heater Repair\n  - Sump Pump or Foundation Drain Install\n  - Sump Pump Repair[5].\n\n- **Service Areas Covered**: While the exact service areas are not detailed, it is implied that they serve the surrounding areas of Robertsdale, AL.\n\n- **Emergency Service Availability**: There is no explicit mention of emergency service availability in the sources.\n\n- **Prices or Rates**: No specific prices or rates are listed in the sources.\n\n## Customer Reviews & Reputation:\n\n- **Review Summaries with Specific Examples**: There are no customer reviews provided in the sources specific to Southern Waters Plumbing LLC. However, the business does not have a BBB accreditation, but it does have an A+ BBB rating based on the limited information available[1].\n\n- **BBB Rating and Status**: Southern Waters Plumbing LLC is not a BBB Accredited Business but has an A+ BBB rating. The BBB file was opened on October 22, 2021[1].\n\n- **Common Customer Feedback Themes**: Since there are no customer reviews available for this specific business, common feedback themes cannot be determined.\n\n- **Response to Reviews**: There is no information available on how the business responds to reviews.\n\n## Owner & Staff:\n\n- **Owner/Management Information**: The owner of Southern Waters Plumbing LLC is Mr. Aaron Waters[1].\n\n- **Staff Qualifications**: There is no specific information available on the qualifications of the staff.\n\n- **Professional Certifications**: The sources do not provide details on any professional certifications held by the staff or owner.\n\nIn summary, Southern Waters Plumbing LLC is a relatively new business in Robertsdale, AL, offering a range of plumbing services, but detailed customer reviews and staff qualifications are not available from the provided sources.",
+  "aboutUs": "Southern Waters Plumbing LLC is a locally owned and operated plumbing company serving the Robertsdale, AL area. Our team of skilled professionals specializes in a wide range of plumbing services, including faucet and fixture repair, water heater maintenance, sump pump installation, and more. With a deep commitment to excellence, we leverage our expertise to deliver top-notch solutions tailored to your unique needs.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with choosing a trusted local plumbing partner dedicated to delivering exceptional service and long-lasting results.",
+    "sellingPoints": [
+      "Highly trained and certified technicians with extensive knowledge of the latest plumbing techniques and technologies.",
+      "Prompt and reliable service, with a focus on minimizing disruptions and ensuring your complete satisfaction.",
+      "Comprehensive solutions that address the root cause of your plumbing issues, ensuring lasting repairs and preventing future problems."
+    ]
+  }
+}

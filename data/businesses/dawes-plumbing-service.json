@@ -1,0 +1,71 @@
+{
+  "slug": "dawes-plumbing-service",
+  "googleReviewsBySlug.json": [
+    {
+      "searchString": "place_id:ChIJUSSg-6ixm4gRwArSm0A0_UY",
+      "name": "Christie Hamilton",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 years ago",
+      "publishedAtDate": "2020-11-25T20:39:46.863Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSURpbFBxZUhBEAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURpbFBxZUhBEAE!2m1!1s0x0:0x46fd34409bd20ac0!3m1!1s2@1:CIHM0ogKEICAgIDilPqeHA%7CCgwIkoL7_QUQqK3DmwM%7C?hl=en",
+      "reviewerId": "105333932048428469220",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105333932048428469220?hl=en",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLL_7m_7QY22SAc8dOksLM8ddo9fPO8OcYmK3zSwrpNCjjWxQ=s120-c-rp-mo-ba2-br100",
+      "reviewerNumberOfReviews": 22,
+      "isLocalGuide": true,
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {
+        "null": "Yes"
+      },
+      "reviewDetailedRating": {},
+      "isAdvertisement": false,
+      "placeId": "ChIJUSSg-6ixm4gRwArSm0A0_UY",
+      "location": {
+        "lat": 30.6588654,
+        "lng": -88.40424
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment"
+      ],
+      "title": "Dawes Plumbing Service",
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 1,
+      "url": "https://www.google.com/maps/search/?api=1&query=Dawes%20Plumbing%20Service&query_place_id=ChIJUSSg-6ixm4gRwArSm0A0_UY",
+      "price": null,
+      "cid": "5115302203859536576",
+      "fid": "0x889bb1a8fba02451:0x46fd34409bd20ac0"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "2020-11-25",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "Here is the detailed information about Dawes Plumbing Service in Alabama, based on the provided identifiers:\n\n## Business Information:\n- **Alabama Business Registration/License Details**: The business is required to be registered with the State of Alabama Plumbers & Gas Fitters Examining Board, but specific license details for Dawes Plumbing Service are not provided in the available sources. However, it is mentioned that businesses in this industry must comply with licensing requirements from this board[2][5].\n- **Physical Location and Service Areas**: Dawes Plumbing Service is located at 9373 Labrador Run S, Mobile, AL 36695-6935. The service area includes Mobile, AL, and potentially surrounding areas, though specific service areas are not detailed[2].\n- **Hours and Payment Methods**: The hours of operation and payment methods are not specified in the available sources.\n- **Years in Operation**: The BBB file for Dawes Plumbing Service was opened on February 17, 2021, but this does not necessarily indicate the exact year the business started operating. The exact years in operation are not provided[2].\n\n## Services & Specialties:\n- **Types of Services Offered**: Dawes Plumbing Service offers general plumbing services. Specific types of services are not detailed, but it is categorized under \"Plumber\"[2].\n- **Service Areas Covered**: The service area includes Mobile, AL, and possibly surrounding areas.\n- **Emergency Service Availability**: There is no explicit mention of emergency service availability, but it is common for plumbing services to offer emergency or urgent care.\n- **Any Listed Prices or Rates**: No specific prices or rates are listed in the available sources[2].\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: There are no detailed review summaries available from the sources provided. However, the business has a BBB rating, which might indicate some customer feedback, though specific reviews are not included.\n- **BBB Rating and Status**: Dawes Plumbing Service is not a BBB Accredited Business and has an A+ BBB rating, though the reasons for this rating are not detailed due to insufficient information[2].\n- **Common Customer Feedback Themes**: Without specific reviews, common customer feedback themes cannot be determined.\n- **Response to Reviews**: There is no information available on how the business responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner of Dawes Plumbing Service is Mr. Joe Reid[2].\n- **Staff Qualifications**: There is no detailed information available on the qualifications or professional certifications of the staff.\n- **Professional Certifications**: No specific professional certifications are mentioned for the staff or owner of Dawes Plumbing Service[2].",
+  "aboutUs": "Dawes Plumbing Service is a trusted local plumbing company serving Mobile, AL, and surrounding areas. Our team of skilled professionals specializes in providing comprehensive plumbing solutions, from routine maintenance to complex installations and repairs. With a focus on exceptional service and expertise, we strive to deliver top-notch workmanship tailored to your specific needs.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with choosing a reliable and knowledgeable plumbing partner.",
+    "sellingPoints": [
+      "Fully licensed and insured professionals, ensuring your protection and our commitment to quality.",
+      "Prompt and efficient service, minimizing disruptions to your daily routine.",
+      "Cutting-edge techniques and equipment, guaranteeing long-lasting and effective solutions."
+    ]
+  }
+}

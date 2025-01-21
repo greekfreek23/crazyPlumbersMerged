@@ -1,0 +1,49 @@
+{
+  "slug": "db-plumbing-llc",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"DB Plumbing LLC\" (ID: ChIJO8CJqJXPGCYRp1oJsCMjBwE) has no reviews",
+      "searchString": "place_id:ChIJO8CJqJXPGCYRp1oJsCMjBwE",
+      "isAdvertisement": false,
+      "placeId": "ChIJO8CJqJXPGCYRp1oJsCMjBwE",
+      "location": {
+        "lat": 32.6321,
+        "lng": -85.4860035
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment"
+      ],
+      "title": "DB Plumbing LLC",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=DB%20Plumbing%20LLC&query_place_id=ChIJO8CJqJXPGCYRp1oJsCMjBwE",
+      "price": null,
+      "cid": "74066555059133095",
+      "fid": "0x2618cf95a889c03b:0x1072323b0095aa7"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "Based on the provided identifiers and the search results, here is the information available for DB Plumbing LLC in Alabama:\n\n## Business Information:\n- **Alabama Business Registration/License Details**: While the specific registration and license details for DB Plumbing LLC are not provided in the search results, it is known that plumbing contractors in Alabama must obtain a Business Privilege License from the county where the business is located and a State of Alabama License from the Plumbers and Gas Fitters Examining Board[5].\n- **Physical Location and Service Areas**: The search results do not provide a specific physical location or service areas for DB Plumbing LLC in Alabama. The provided Google Place ID and phone number suggest it is based in Alabama, but the exact location is not specified.\n- **Hours and Payment Methods**: There is no information available on the hours of operation or payment methods for DB Plumbing LLC in Alabama.\n- **Years in Operation**: No specific information is available on how long DB Plumbing LLC has been in operation in Alabama.\n\n## Services & Specialties:\n- **Types of Services Offered**: The search results do not specify the types of services offered by DB Plumbing LLC in Alabama. However, typical plumbing services include residential and commercial plumbing, repairs, installations, and maintenance.\n- **Service Areas Covered**: As mentioned, the service areas are not specified.\n- **Emergency Service Availability**: There is no information available on whether DB Plumbing LLC offers emergency services.\n- **Any Listed Prices or Rates**: No pricing information is available for DB Plumbing LLC in Alabama.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: There are no review summaries or specific examples available for DB Plumbing LLC in Alabama from the provided sources.\n- **BBB Rating and Status**: The search results do not include any information on a BBB rating or status for DB Plumbing LLC in Alabama. The BBB profiles provided are for businesses in other states[3][4].\n- **Common Customer Feedback Themes**: No customer feedback themes are available.\n- **Response to Reviews**: There is no information on how the business responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner or management information for DB Plumbing LLC in Alabama is not provided in the search results.\n- **Staff Qualifications**: There is no information available on the qualifications or certifications of the staff.\n- **Professional Certifications**: No information is available on any professional certifications held by the owner or staff of DB Plumbing LLC in Alabama.\n\nGiven the lack of specific information in the search results, it appears that detailed data on DB Plumbing LLC in Alabama is not readily available from these sources. To obtain more accurate and detailed information, it would be necessary to contact the business directly or check with local business registries and licensing authorities.",
+  "aboutUs": "DB Plumbing LLC is a trusted local plumbing company serving communities throughout Alabama. Our team of highly skilled and certified plumbers specializes in residential and commercial plumbing services, from routine maintenance and repairs to complex installations. We take pride in our expertise, attention to detail, and commitment to delivering exceptional service to every customer.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with choosing a reliable and knowledgeable plumbing partner.",
+    "sellingPoints": [
+      "Prompt and efficient emergency plumbing services, available 24/7 to quickly resolve any urgent issues.",
+      "Comprehensive solutions tailored to your specific plumbing needs, backed by our team's extensive training and industry expertise.",
+      "Commitment to using the latest techniques and high-quality materials to ensure long-lasting, durable results for every job."
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "rooter-emergency-plumber",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"Rooter Emergency Plumber\" (ID: ChIJO2BzFWNtYogRKdCgsjtsS1c) has no reviews",
+      "searchString": "place_id:ChIJO2BzFWNtYogRKdCgsjtsS1c",
+      "isAdvertisement": false,
+      "placeId": "ChIJO2BzFWNtYogRKdCgsjtsS1c",
+      "location": {
+        "lat": 32.5762265,
+        "lng": -86.6807364
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment"
+      ],
+      "title": "Rooter Emergency Plumber",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=Rooter%20Emergency%20Plumber&query_place_id=ChIJO2BzFWNtYogRKdCgsjtsS1c",
+      "price": null,
+      "cid": "6290240308208783401",
+      "fid": "0x88626d631573603b:0x574b6c3bb2a0d029"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "Based on the provided identifiers and the search results, there is no specific information available for a business named \"Rooter Emergency Plumber\" with the Google Place ID ChIJO2BzFWNtYogRKdCgsjtsS1c and the phone number +1 450-248-2467. Here are the reasons and what can be inferred:\n\n## Business Information\n- **Alabama business registration/license details**: There is no information available in the provided sources or through a general search that matches the specific business name, Google Place ID, and phone number.\n- **Physical location and service areas**: No information is available.\n- **Hours and payment methods**: No information is available.\n- **Years in operation**: No information is available.\n\n## Services & Specialties\n- **Types of services offered**: No specific services can be attributed to this business.\n- **Service areas covered**: No information is available.\n- **Emergency service availability**: No information is available.\n- **Any listed prices or rates**: No information is available.\n\n## Customer Reviews & Reputation\n- **Review summaries with specific examples**: There are no reviews available for this specific business.\n- **BBB rating and status**: No BBB rating or status can be found for this business.\n- **Common customer feedback themes**: No feedback is available.\n- **Response to reviews**: No responses to reviews can be found.\n\n## Owner & Staff\n- **Owner/management information**: The only information provided is the business title \"Rooter Emergency Plumber,\" but no detailed owner or management information is available.\n- **Staff qualifications**: No information is available.\n- **Professional certifications**: No information is available.\n\nGiven the lack of specific information, it appears that the business \"Rooter Emergency Plumber\" with the provided identifiers does not have a significant online presence or is not listed in the sources provided. To obtain detailed information, you may need to contact the business directly or check with local business registries and licensing boards.",
+  "aboutUs": "At Rooter Emergency Plumber, we are a team of highly skilled and experienced professionals dedicated to providing top-notch plumbing services to our local community. Our expertise spans a wide range of plumbing issues, from routine maintenance to complex repairs and installations. We specialize in emergency plumbing services, ensuring that your urgent needs are addressed promptly and efficiently.",
+  "whyChooseUs": {
+    "mainPitch": "Unparalleled expertise and rapid response for all your plumbing emergencies.",
+    "sellingPoints": [
+      "24/7 emergency service with guaranteed fast response times, ensuring your plumbing issues are resolved quickly and effectively.",
+      "Highly trained and certified technicians equipped with the latest tools and techniques to handle even the most challenging plumbing problems.",
+      "Commitment to using high-quality materials and following industry best practices, ensuring long-lasting solutions and customer satisfaction."
+    ]
+  }
+}

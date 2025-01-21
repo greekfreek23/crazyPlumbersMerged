@@ -1,0 +1,52 @@
+{
+  "slug": "fair-emergency-hvac-repair",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"Fair Emergency HVAC Repair\" (ID: ChIJeTKZfmEbiYgR0vPqH0Uz2WU) has no reviews",
+      "searchString": "place_id:ChIJeTKZfmEbiYgR0vPqH0Uz2WU",
+      "isAdvertisement": false,
+      "placeId": "ChIJeTKZfmEbiYgR0vPqH0Uz2WU",
+      "location": {
+        "lat": 32.5762265,
+        "lng": -86.6807364
+      },
+      "address": null,
+      "categoryName": "General store",
+      "categories": [
+        "General store",
+        "Air conditioning repair service",
+        "Service establishment",
+        "HVAC contractor",
+        "Plumber"
+      ],
+      "title": "Fair Emergency HVAC Repair",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=Fair%20Emergency%20HVAC%20Repair&query_place_id=ChIJeTKZfmEbiYgR0vPqH0Uz2WU",
+      "price": null,
+      "cid": "7338953439758185426",
+      "fid": "0x88891b617e993279:0x65d933451feaf3d2"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "Based on the provided identifiers and the search results, there is no specific information available about \"Fair Emergency HVAC Repair\" in Alabama. Here are some reasons and alternatives:\n\n## Business Information\n- There is no mention of \"Fair Emergency HVAC Repair\" in the provided sources or any publicly available databases that I can access. To find Alabama business registration or license details, you would typically check with the Alabama Secretary of State's office or the Alabama Board of Heating, Air Conditioning & Refrigeration Contractors, but no such information is available for this specific business.\n\n## Services & Specialties\n- Without specific sources, it is impossible to determine the types of services offered, service areas covered, emergency service availability, or any listed prices or rates for \"Fair Emergency HVAC Repair.\"\n\n## Customer Reviews & Reputation\n- There are no customer reviews, BBB ratings, or any other reputation-related information available for \"Fair Emergency HVAC Repair\" as it does not appear in the provided sources or other accessible databases.\n\n## Owner & Staff\n- There is no information available on the owner, management, staff qualifications, or professional certifications for \"Fair Emergency HVAC Repair.\"\n\nGiven the lack of information, it appears that \"Fair Emergency HVAC Repair\" may not be a well-documented or publicly recognized business in Alabama, or it might be a very new or small operation that has not yet gained significant online presence. To gather more accurate information, you would need to contact the business directly or check local business registries and licensing boards.",
+  "aboutUs": "At Fair Emergency HVAC Repair, we are a team of highly skilled and certified HVAC technicians dedicated to providing top-notch service to homes and businesses throughout Alabama. Our local expertise allows us to quickly diagnose and resolve any heating, cooling, or ventilation issue with precision and efficiency. We specialize in emergency repairs, system replacements, and preventative maintenance to keep your HVAC systems running smoothly all year round.",
+  "whyChooseUs": {
+    "mainPitch": "Reliable 24/7 emergency service and rapid response times for all your HVAC repair needs.",
+    "sellingPoints": [
+      "Highly trained and certified technicians with extensive experience in all major HVAC brands and systems.",
+      "Fully stocked service vans to ensure most repairs can be completed in a single visit.",
+      "Upfront, transparent pricing with no hidden fees for a stress-free experience."
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "jc-plumbing-and-drain",
+  "googleReviewsBySlug.json": [
+    {
+      "searchString": "place_id:ChIJ1w-81FabhaoRkFxcjdCvY_I",
+      "name": "Darrel Shatterly",
+      "text": "They responded within an hour or so for a blockage in our sewer line. This happened on a Saturday afternoon. They diagnosed the problem and cleared it within 20 minutes of their arrival. I am pleased to now have a faith based plumbing company that we can call on for our plumbing needs in the future. I would highly recommend them!",
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2023-09-03T10:33:58.302Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNacU92LTdnRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNacU92LTdnRRAB!2m1!1s0x0:0xf263afd08d5c5c90!3m1!1s2@1:CIHM0ogKEICAgICZqOv-7gE%7CCgwIlsLRpwYQsKGKkAE%7C?hl=en",
+      "reviewerId": "118311395255012869718",
+      "reviewerUrl": "https://www.google.com/maps/contrib/118311395255012869718?hl=en",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIZIJVrZ594gdoY6-9_jy_ga8jjqSRFjXKa5_7zKFaSniySLg=s120-c-rp-mo-br100",
+      "reviewerNumberOfReviews": 13,
+      "isLocalGuide": false,
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {
+        "null": "Yes"
+      },
+      "reviewDetailedRating": {},
+      "isAdvertisement": false,
+      "placeId": "ChIJ1w-81FabhaoRkFxcjdCvY_I",
+      "location": {
+        "lat": 33.6901925,
+        "lng": -86.310832
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Contractor",
+        "Service establishment",
+        "Plumbing supply store"
+      ],
+      "title": "JC Plumbing and Drain",
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 2,
+      "url": "https://www.google.com/maps/search/?api=1&query=JC%20Plumbing%20and%20Drain&query_place_id=ChIJ1w-81FabhaoRkFxcjdCvY_I",
+      "price": null,
+      "cid": "17465997090132614288",
+      "fid": "0xaa859b56d4bc0fd7:0xf263afd08d5c5c90"
+    },
+    {
+      "searchString": "place_id:ChIJ1w-81FabhaoRkFxcjdCvY_I",
+      "name": "Toby Ford",
+      "text": "Service was a two-man job involving unpacking, assembling and installing vanity with faucets and glass shower door.  It required both electrical and plumbing specialists.  They did a great job and were timely and reliable!  I highly recommend!",
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2023-05-05T01:33:53.285Z",
+      "likesCount": 1,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURSaDZxbzBBRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURSaDZxbzBBRRAB!2m1!1s0x0:0xf263afd08d5c5c90!3m1!1s2@1:CIHM0ogKEICAgIDRh6qo0AE%7CCgwIgbrRogYQsLOciAE%7C?hl=en",
+      "reviewerId": "103010684177908165124",
+      "reviewerUrl": "https://www.google.com/maps/contrib/103010684177908165124?hl=en",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXDsjph8pdNKaTcqgyOo8sv1LnrZf8rlYCf22sUHNxace6hYCik=s120-c-rp-mo-br100",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {
+        "null": "Yes"
+      },
+      "reviewDetailedRating": {},
+      "isAdvertisement": false,
+      "placeId": "ChIJ1w-81FabhaoRkFxcjdCvY_I",
+      "location": {
+        "lat": 33.6901925,
+        "lng": -86.310832
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Contractor",
+        "Service establishment",
+        "Plumbing supply store"
+      ],
+      "title": "JC Plumbing and Drain",
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 2,
+      "url": "https://www.google.com/maps/search/?api=1&query=JC%20Plumbing%20and%20Drain&query_place_id=ChIJ1w-81FabhaoRkFxcjdCvY_I",
+      "price": null,
+      "cid": "17465997090132614288",
+      "fid": "0xaa859b56d4bc0fd7:0xf263afd08d5c5c90"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [
+    "blockage",
+    "sewer line",
+    "vanity",
+    "faucets",
+    "glass shower door",
+    "electrical",
+    "plumbing"
+  ],
+  "firstReviewDate": "2023-05-05",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "### Business Information:\n\n- **Alabama Business Registration/License Details**:\n  - JC Plumbing and Drain is licensed by the State of Alabama Plumbers & Gas Fitters Examining Board with a license number of JP-1769, which is set to expire on December 31, 2024[1].\n- **Physical Location and Service Areas**:\n  - The business is located at 2534 Dry Creek Rd, Cropwell, AL 35054-5120. They serve the local area, including Cropwell and possibly surrounding regions[1][2].\n- **Hours and Payment Methods**:\n  - Specific hours of operation are not provided in the sources, but they do offer emergency services and prioritize prompt responses to urgent calls[2][3].\n  - Payment methods are not explicitly stated, but it is common for plumbing services to accept various payment methods including credit cards, checks, and cash.\n- **Years in Operation**:\n  - JC Plumbing and Drain has been in business for 17 years, starting on October 1, 2007[1].\n\n### Services & Specialties:\n\n- **Types of Services Offered**:\n  - The business provides a comprehensive range of plumbing services, including leak repairs, fixture installations, drain cleaning, water heater services, sewer line inspections, and emergency plumbing solutions. Specific services include plumbing pipe installation, sump pump installation or replacement, plumbing pipe repair, sink and faucet installation, shower and bathtub installation, toilet installation, garbage disposal installation, and more[2][5].\n- **Service Areas Covered**:\n  - They serve residential and commercial customers in the Cropwell area and possibly surrounding regions[1][5].\n- **Emergency Service Availability**:\n  - Yes, they prioritize emergency calls and strive to provide swift responses to address urgent plumbing issues promptly[2][3].\n- **Any Listed Prices or Rates**:\n  - They have set prices for different services and also work by the hour for others. However, specific price details are not provided in the sources[5].\n\n### Customer Reviews & Reputation:\n\n- **Review Summaries with Specific Examples**:\n  - Customers have praised the professionalism, knowledge, and reasonable prices of JC Plumbing and Drain. For example, one customer noted that the plumbers were \"professional and very knowledgeable and explained the problem to me\"[5].\n  - Another customer mentioned that they were \"polite and on time, just very professional\"[5].\n  - A customer also highlighted that the service was \"on time and fixed the problem\" with \"very reasonable\" prices[5].\n- **BBB Rating and Status**:\n  - JC Plumbing and Drain is BBB Accredited since February 20, 2024, and holds an A+ BBB rating[1].\n- **Common Customer Feedback Themes**:\n  - Themes include professionalism, knowledge, punctuality, reasonable prices, and satisfactory service[5].\n- **Response to Reviews**:\n  - There is no specific information on how the business responds to reviews, but their commitment to customer satisfaction is emphasized in their business profile[2][3].\n\n### Owner & Staff:\n\n- **Owner/Management Information**:\n  - The owner of JC Plumbing and Drain is Mr. John Castleberry[1].\n- **Staff Qualifications**:\n  - The plumbers at JC Plumbing and Drain are fully licensed and insured professionals. The business ensures that team members are well-qualified, trained, and equipped to handle diverse plumbing needs safely and efficiently[2][3].\n- **Professional Certifications**:\n  - The business holds a license from the State of Alabama Plumbers & Gas Fitters Examining Board, and the staff are certified to perform various plumbing services[1][2].",
+  "aboutUs": "JC Plumbing and Drain is a trusted local plumbing company serving the Cropwell area and surrounding regions. Our team of licensed and insured professionals specializes in a comprehensive range of plumbing services, from leak repairs and fixture installations to drain cleaning and emergency solutions. We prioritize prompt responses and take pride in our expertise in handling even the most complex plumbing challenges.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with choosing a reliable and knowledgeable plumbing partner.",
+    "sellingPoints": [
+      "Fully licensed and insured professionals equipped with the latest tools and techniques.",
+      "Prompt emergency services to address urgent plumbing issues swiftly and efficiently.",
+      "Comprehensive solutions tailored to your specific residential or commercial plumbing needs."
+    ]
+  }
+}

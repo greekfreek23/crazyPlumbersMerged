@@ -1,0 +1,50 @@
+{
+  "slug": "4g-plumbing-and-drain-cleaning",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"4G Plumbing and Drain Cleaning\" (ID: ChIJqe6cf3U1GAERrZ6pjst32HA) has no reviews",
+      "searchString": "place_id:ChIJqe6cf3U1GAERrZ6pjst32HA",
+      "isAdvertisement": false,
+      "placeId": "ChIJqe6cf3U1GAERrZ6pjst32HA",
+      "location": {
+        "lat": 33.9119755,
+        "lng": -85.98284
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment"
+      ],
+      "title": "4G Plumbing and Drain Cleaning",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=4G%20Plumbing%20and%20Drain%20Cleaning&query_place_id=ChIJqe6cf3U1GAERrZ6pjst32HA",
+      "price": null,
+      "cid": "8131380843372977837",
+      "fid": "0x11835757f9ceea9:0x70d877cb8ea99ead",
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP8JEz1a68MF2g2yfcOYsuuRvVUH2qdGbmz4bQ=w408-h654-k-no"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "We couldn't find specific and detailed information about \"4G Plumbing and Drain Cleaning\" using the provided identifiers, as this business does not appear in the sources listed. Here are some steps you can take to find the necessary information:\n\n## Alabama Business Registration/License Details\n- You can check the Alabama Secretary of State's business entity database or the Alabama State Licensing Board for Plumbers and Gas Fitters to verify the business registration and licensing details.\n\n## Physical Location and Service Areas\n- Google Maps or the business's official website (if available) can provide the physical location and service areas.\n\n## Hours and Payment Methods\n- The business's official website, Google My Business listing, or direct contact with the business would be the best sources for this information.\n\n## Years in Operation\n- This information is typically found on the business's website, social media profiles, or through direct contact.\n\n## Services & Specialties\n- The business's website or service listings on platforms like Google My Business would detail the types of services offered and service areas covered.\n\n## Emergency Service Availability\n- This information is usually available on the business's website or through their customer service.\n\n## Customer Reviews & Reputation\n- Check review platforms like Google Reviews, Yelp, or the Better Business Bureau (BBB) for review summaries and ratings.\n\n## Owner & Staff\n- The business's website or direct contact would provide information on the owner, management, staff qualifications, and professional certifications.\n\nGiven the lack of specific information in the provided sources, here are some general steps to find the details you need:\n\n1. **Visit the Business's Website**: If available, the official website of 4G Plumbing and Drain Cleaning would likely have detailed information on services, hours, payment methods, and more.\n2. **Google My Business**: Check the Google My Business listing for 4G Plumbing and Drain Cleaning to find hours, service areas, and customer reviews.\n3. **Alabama State Databases**: Use state databases to verify business registration and licensing.\n4. **BBB and Review Sites**: Check the BBB website and other review platforms for customer reviews and ratings.\n5. **Direct Contact**: Contact the business directly to inquire about specific details not available online.\n\nWithout direct access to these sources or the business's official information, it is not possible to provide detailed and verified information about 4G Plumbing and Drain Cleaning.",
+  "aboutUs": "At 4G Plumbing and Drain Cleaning, our team of highly skilled and certified plumbers is dedicated to providing top-notch service to homeowners and businesses throughout the local area. With our extensive expertise and state-of-the-art equipment, we specialize in a wide range of plumbing services, from routine maintenance and repairs to complex installations and emergency services. Our commitment to excellence and customer satisfaction is unmatched.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with choosing a trusted and reliable local plumbing company.",
+    "sellingPoints": [
+      "Rapid response times for emergency plumbing situations, ensuring your issues are resolved promptly.",
+      "Highly trained and certified technicians with the knowledge and skills to handle any plumbing challenge.",
+      "Transparent pricing and upfront cost estimates, so you know exactly what to expect before any work begins."
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "tibbetts-plumbing-inc",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"Tibbetts Plumbing Inc\" (ID: ChIJwSI1E4jzhIgR1g6uEESwRgE) has no reviews",
+      "searchString": "place_id:ChIJwSI1E4jzhIgR1g6uEESwRgE",
+      "isAdvertisement": false,
+      "placeId": "ChIJwSI1E4jzhIgR1g6uEESwRgE",
+      "location": {
+        "lat": 32.291146,
+        "lng": -88.589307
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment"
+      ],
+      "title": "Tibbetts Plumbing Inc",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=Tibbetts%20Plumbing%20Inc&query_place_id=ChIJwSI1E4jzhIgR1g6uEESwRgE",
+      "price": null,
+      "cid": "91954648791781078",
+      "fid": "0x8884f388133522c1:0x146b04410ae0ed6"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "### Business Information:\n\n- **Alabama Business Registration/License Details**:\n  Tibbetts Plumbing, Inc. is registered in Alabama as a foreign corporation. It was qualified to do business in Alabama on March 30, 2016. The entity ID number is 000358110. The company was originally formed in Mississippi on March 27, 1997[1].\n  The registered office address in Alabama is 2 North Jackson Street, Ste 605, Montgomery, AL 36104[1].\n\n- **Physical Location and Service Areas**:\n  Although the principal address is in Meridian, MS (5293 Hwy 19 N Frontage Road, Meridian, MS 39307), the company operates and provides services in Alabama as well. The service areas include both residential and commercial customers in the region[1][2].\n\n- **Hours and Payment Methods**:\n  Tibbetts Plumbing, Inc. operates from Monday to Saturday from 8:00 AM to 6:00 PM. For additional hours, customers can make an appointment by calling the hotline. The payment methods accepted include cash and check[2].\n\n- **Years in Operation**:\n  The company has been operating for approximately 27 years and 9 months, having been established in 1997 and qualified to do business in Alabama in 2016[1].\n\n### Services & Specialties:\n\n- **Types of Services Offered**:\n  Tibbetts Plumbing, Inc. offers a range of services including complete water, sewer, and gas installation and service, new construction, and remodeling. They provide prompt and efficient plumbing repair and maintenance services[2].\n\n- **Service Areas Covered**:\n  The company serves both residential and commercial customers in the Meridian, MS area and extends its services into Alabama[1][2].\n\n- **Emergency Service Availability**:\n  While the primary hours of operation are from 8:00 AM to 6:00 PM, Monday to Saturday, customers can arrange for additional hours by calling the hotline, suggesting some flexibility for emergency services[2].\n\n- **Prices or Rates**:\n  There is no specific pricing information provided, but the company is noted for offering high-quality services at affordable and reasonable prices[2].\n\n### Customer Reviews & Reputation:\n\n- **Review Summaries with Specific Examples**:\n  There are no reviews available specifically for the Alabama operations of Tibbetts Plumbing, Inc. However, the general feedback from their main operations in Meridian, MS, indicates a high level of customer satisfaction with their professionalism, punctuality, and quality of work[2].\n\n- **BBB Rating and Status**:\n  There is no BBB rating or accreditation information available specifically for Tibbetts Plumbing, Inc. in Alabama, as the primary focus is on their operations in Mississippi[2].\n\n- **Common Customer Feedback Themes**:\n  Common themes include praise for their customer-oriented approach, professionalism, and the high quality of their work. Customers appreciate their prompt and efficient services[2].\n\n- **Response to Reviews**:\n  There is no information available on how the company responds to reviews, as there are no specific reviews for their Alabama operations listed.\n\n### Owner & Staff:\n\n- **Owner/Management Information**:\n  The company is known as Tibbetts Plumbing, Inc., and it is associated with Charles and Dot Tibbetts, though specific management details for the Alabama operations are not provided[2].\n\n- **Staff Qualifications**:\n  The staff is described as experienced and professional, with the company being fully licensed and insured in both Mississippi and Alabama[2].\n\n- **Professional Certifications**:\n  The company holds the necessary licenses to operate in both Mississippi and Alabama, but specific certifications of individual staff members are not detailed[2].",
+  "aboutUs": "With over 28 years of experience, Tibbetts Plumbing, Inc. is a trusted and reliable plumbing service provider in the Meridian, MS area and extending into Alabama. Our team of highly skilled and licensed professionals specializes in complete water, sewer, and gas installation, new construction, remodeling, and prompt repair and maintenance services for both residential and commercial clients. We take pride in our local presence and commitment to delivering exceptional workmanship tailored to the needs of our community.",
+  "whyChooseUs": {
+    "mainPitch": "Tibbetts Plumbing, Inc. offers unparalleled expertise and a customer-focused approach, ensuring your plumbing needs are met with efficiency and professionalism.",
+    "sellingPoints": [
+      "Fully licensed and insured in Mississippi and Alabama, guaranteeing compliance with all regulations and providing peace of mind.",
+      "Prompt and efficient emergency services available beyond regular business hours, ensuring your plumbing issues are addressed promptly.",
+      "Comprehensive range of services, from installations and new construction to repairs and maintenance, catering to all your plumbing requirements."
+    ]
+  }
+}

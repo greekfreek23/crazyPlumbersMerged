@@ -1,0 +1,49 @@
+{
+  "slug": "ddandh-services-llc",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"DD&H SERVICES LLC\" (ID: ChIJk6Ohx1keiYgRlLMb5pxzGac) has no reviews",
+      "searchString": "place_id:ChIJk6Ohx1keiYgRlLMb5pxzGac",
+      "isAdvertisement": false,
+      "placeId": "ChIJk6Ohx1keiYgRlLMb5pxzGac",
+      "location": {
+        "lat": 32.5762265,
+        "lng": -86.6807364
+      },
+      "address": null,
+      "categoryName": "Carpenter",
+      "categories": [
+        "Carpenter",
+        "Bathroom remodeler",
+        "Deck builder",
+        "Demolition contractor",
+        "Electrician",
+        "Service establishment",
+        "Flooring contractor",
+        "Home builder",
+        "Kitchen remodeler",
+        "Plumber",
+        "Roofing contractor"
+      ],
+      "title": "DD&H SERVICES LLC",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=DD%26H%20SERVICES%20LLC&query_place_id=ChIJk6Ohx1keiYgRlLMb5pxzGac",
+      "price": null,
+      "cid": "12040782196464399252",
+      "fid": "0x88891e59c7a1a393:0xa719739ce61bb394",
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPG4UomAxlPH5AC1KUjSM_Y8s2GKKHTtEJVsB89=w408-h306-k-no"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}

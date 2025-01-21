@@ -1,0 +1,54 @@
+{
+  "slug": "bamas-best-maintenance-and-repair",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"Bamas Best Maintenance & Repair\" (ID: ChIJ8WqZ0fG0YYgRUaskgN-pxfs) has no reviews",
+      "searchString": "place_id:ChIJ8WqZ0fG0YYgRUaskgN-pxfs",
+      "isAdvertisement": false,
+      "placeId": "ChIJ8WqZ0fG0YYgRUaskgN-pxfs",
+      "location": {
+        "lat": 30.3532742,
+        "lng": -87.76027
+      },
+      "address": "8844 Gryder St, Foley, AL 36535",
+      "neighborhood": null,
+      "street": "8844 Gryder St",
+      "city": "Foley",
+      "postalCode": "36535",
+      "state": "Alabama",
+      "countryCode": "US",
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Bathroom remodeler",
+        "Construction and maintenance office",
+        "Construction company",
+        "Drainage service",
+        "Handyman/Handywoman/Handyperson",
+        "Kitchen remodeler",
+        "Painting",
+        "Screen repair service",
+        "Water works"
+      ],
+      "title": "Bamas Best Maintenance & Repair",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=Bamas%20Best%20Maintenance%20%26%20Repair&query_place_id=ChIJ8WqZ0fG0YYgRUaskgN-pxfs",
+      "price": null,
+      "cid": "18142093451324599121",
+      "fid": "0x8861b4f1d1996af1:0xfbc5a9df8024ab51",
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPYH-StSLdXv2INWPttP5dJqJBRNNenJNtyRSXM=w533-h240-k-no"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}

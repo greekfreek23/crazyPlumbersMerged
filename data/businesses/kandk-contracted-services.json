@@ -1,0 +1,51 @@
+{
+  "slug": "kandk-contracted-services",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"K&K Contracted Services\" (ID: ChIJn2KWscEpiogRvclFZyXlQG0) has no reviews",
+      "searchString": "place_id:ChIJn2KWscEpiogRvclFZyXlQG0",
+      "isAdvertisement": false,
+      "placeId": "ChIJn2KWscEpiogRvclFZyXlQG0",
+      "location": {
+        "lat": 33.848,
+        "lng": -86.2271132
+      },
+      "address": "145 Smokey Hollow Dr, Ashville, AL 35953",
+      "neighborhood": null,
+      "street": "145 Smokey Hollow Dr",
+      "city": "Ashville",
+      "postalCode": "35953",
+      "state": "Alabama",
+      "countryCode": "US",
+      "categoryName": "General contractor",
+      "categories": [
+        "General contractor",
+        "Auto electrical service",
+        "Auto repair shop",
+        "Auto upholsterer",
+        "Electric motor repair shop",
+        "Electrical repair shop",
+        "Plumber"
+      ],
+      "title": "K&K Contracted Services",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=K%26K%20Contracted%20Services&query_place_id=ChIJn2KWscEpiogRvclFZyXlQG0",
+      "price": null,
+      "cid": "7872544097452804541",
+      "fid": "0x888a29c1b196629f:0x6d40e5256745c9bd",
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMIxXRpRkIyGH51qNTxivev61sU7kNNkKEmnWS_=w408-h544-k-no"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "randc-construction-and-repairs",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"R&C Construction and Repairs\" (ID: ChIJ0zDmqNS7iogRfJfd73E7JQA) has no reviews",
+      "searchString": "place_id:ChIJ0zDmqNS7iogRfJfd73E7JQA",
+      "isAdvertisement": false,
+      "placeId": "ChIJ0zDmqNS7iogRfJfd73E7JQA",
+      "location": {
+        "lat": 46.423669,
+        "lng": -129.9427086
+      },
+      "address": null,
+      "categoryName": "Landscaper",
+      "categories": [
+        "Landscaper",
+        "Carpenter",
+        "Service establishment",
+        "Handyman/Handywoman/Handyperson",
+        "Plumber",
+        "Tree service"
+      ],
+      "title": "R&C Construction and Repairs",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=R%26C%20Construction%20and%20Repairs&query_place_id=ChIJ0zDmqNS7iogRfJfd73E7JQA",
+      "price": null,
+      "cid": "10479934679914364",
+      "fid": "0x888abbd4a8e630d3:0x253b71efdd977c",
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNAnFRzNbc09LNVKryszZ4kL5uAincOG6YUCN-D=w408-h273-k-no"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}

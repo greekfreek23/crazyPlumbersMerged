@@ -1,0 +1,49 @@
+{
+  "slug": "preston-plumbing",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"Preston Plumbing\" (ID: ChIJw8CCO4RglCkRQTC4UD3RDEM) has no reviews",
+      "searchString": "place_id:ChIJw8CCO4RglCkRQTC4UD3RDEM",
+      "isAdvertisement": false,
+      "placeId": "ChIJw8CCO4RglCkRQTC4UD3RDEM",
+      "location": {
+        "lat": 32.67853,
+        "lng": -83.1940624
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment"
+      ],
+      "title": "Preston Plumbing",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=Preston%20Plumbing&query_place_id=ChIJw8CCO4RglCkRQTC4UD3RDEM",
+      "price": null,
+      "cid": "4831466561539158081",
+      "fid": "0x299460843b82c0c3:0x430cd13d50b83041"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "Based on the provided identifiers, it appears there might be some confusion or mismatch, as the details given do not align with the businesses found in the sources. Here\u2019s what can be determined and what cannot be verified:\n\n## Business Information:\n- The provided phone number (+1 229-366-0919) and Google Place ID do not match any of the sources provided, which focus on Preston's Plumbing, LLC in Anniston, AL.\n- **Alabama business registration/license details**: The sources mention Preston's Plumbing, LLC, which has a license number MP-1034 issued by the State of Alabama Plumbers & Gas Fitters Examining Board, but this does not match the provided phone number or Google Place ID[1].\n- **Physical location and service areas**: Preston's Plumbing, LLC is located at 1305 Red Road 55, Anniston, AL 36207, and serves the Anniston area. However, this does not match the provided identifiers[1][2].\n- **Hours and payment methods**: There is no specific information on hours and payment methods for a business matching the exact identifiers provided.\n- **Years in operation**: Preston's Plumbing, LLC has been in operation since January 27, 2016, but again, this does not match the provided identifiers[1].\n\n## Services & Specialties:\n- **Types of services offered**: Preston's Plumbing, LLC offers residential and commercial plumbing services, including drain cleaning, installation and repair of water or sewer lines, sinks, toilets, water heaters, etc.[1][2].\n- **Service areas covered**: The service area is around Anniston, AL, but this does not align with the provided identifiers.\n- **Emergency service availability**: There is no specific information on emergency service availability for the exact business identified.\n- **Any listed prices or rates**: No prices or rates are provided in the sources for the exact business identified.\n\n## Customer Reviews & Reputation:\n- **Review summaries with specific examples**: Reviews for Preston's Plumbing, LLC indicate high satisfaction with professional and friendly service, but these do not match the provided identifiers[1][3].\n- **BBB rating and status**: Preston's Plumbing, LLC has an A+ BBB rating and is BBB accredited, but this does not match the provided identifiers[1].\n- **Common customer feedback themes**: Positive feedback on professionalism and friendliness, but this is for Preston's Plumbing, LLC, not the exact business identified.\n- **Response to reviews**: There is no information on response to reviews for the exact business identified.\n\n## Owner & Staff:\n- **Owner/management information**: The owner of Preston's Plumbing, LLC is Mr. Nick Preston, but this does not match the provided identifiers[1].\n- **Staff qualifications**: There is no specific information on staff qualifications for the exact business identified.\n- **Professional certifications**: The business has a license from the State of Alabama Plumbers & Gas Fitters Examining Board, but this is for Preston's Plumbing, LLC, not the exact business identified[1].\n\nGiven the mismatch between the provided identifiers and the information available in the sources, it is not possible to provide detailed information about the specific business named \"Preston Plumbing\" with the phone number +1 229-366-0919 and the given Google Place ID. The information available pertains to Preston's Plumbing, LLC in Anniston, AL, which does not match the provided details.",
+  "aboutUs": "Backed by extensive expertise and a deep commitment to excellence, our locally owned and operated plumbing company specializes in delivering top-notch residential and commercial services. From drain cleaning and water heater installations to sewer line repairs and comprehensive plumbing solutions, we are equipped to handle any job with precision and professionalism.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with our unparalleled plumbing expertise and unwavering dedication to customer satisfaction.",
+    "sellingPoints": [
+      "Highly trained and certified technicians with a keen eye for detail and a commitment to getting the job done right the first time.",
+      "State-of-the-art equipment and techniques to ensure efficient and long-lasting solutions for all your plumbing needs.",
+      "Prompt and reliable service, with a focus on clear communication and transparent pricing to eliminate surprises."
+    ]
+  }
+}

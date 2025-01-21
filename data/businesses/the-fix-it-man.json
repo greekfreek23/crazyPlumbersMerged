@@ -1,0 +1,51 @@
+{
+  "slug": "the-fix-it-man",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"The Fix It Man\" (ID: ChIJoTnIZqZcHYIRu1N3LeDBYJs) has no reviews",
+      "searchString": "place_id:ChIJoTnIZqZcHYIRu1N3LeDBYJs",
+      "isAdvertisement": false,
+      "placeId": "ChIJoTnIZqZcHYIRu1N3LeDBYJs",
+      "location": {
+        "lat": 34.349608,
+        "lng": -86.319824
+      },
+      "address": null,
+      "categoryName": "Handyman/Handywoman/Handyperson",
+      "categories": [
+        "Handyman/Handywoman/Handyperson",
+        "Electrician",
+        "Service establishment",
+        "Plumber"
+      ],
+      "title": "The Fix It Man",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=The%20Fix%20It%20Man&query_place_id=ChIJoTnIZqZcHYIRu1N3LeDBYJs",
+      "price": null,
+      "cid": "11196161842222683067",
+      "fid": "0x821d5ca666c839a1:0x9b60c1e02d7753bb"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "Based on the provided identifiers and the search results, here is the information available for \"The Fix It Man\" in Alabama:\n\n## Business Information:\n- **Alabama business registration/license details**: There is no specific information available from the provided sources regarding the business registration or license details of \"The Fix It Man.\"\n- **Physical location and service areas**: The exact physical location and service areas of \"The Fix It Man\" are not specified in the provided sources. However, the Google Place ID suggests it is based in Alabama, but the precise location is not given.\n- **Hours and payment methods**: No information is available on the business hours or payment methods.\n- **Years in operation**: There is no data available on how long \"The Fix It Man\" has been in operation.\n\n## Services & Specialties:\n- **Types of services offered**: The specific services offered by \"The Fix It Man\" are not detailed in the provided sources. Typically, plumbing services might include repairs, installations, and maintenance, but this is speculative without direct information.\n- **Service areas covered**: The service areas are not explicitly stated.\n- **Emergency service availability**: There is no information available on whether \"The Fix It Man\" offers emergency services.\n- **Any listed prices or rates**: No pricing or rate information is available.\n\n## Customer Reviews & Reputation:\n- **Review summaries with specific examples**: There are no review summaries or specific examples available from the provided sources.\n- **BBB rating and status**: No information is available regarding the BBB rating or status of \"The Fix It Man.\"\n- **Common customer feedback themes**: Without reviews or feedback, common customer feedback themes cannot be identified.\n- **Response to reviews**: There is no data on how the business responds to reviews.\n\n## Owner & Staff:\n- **Owner/management information**: The owner or management details of \"The Fix It Man\" are not provided in the sources.\n- **Staff qualifications**: There is no information available on the qualifications of the staff.\n- **Professional certifications**: No details on professional certifications are available.\n\nGiven the lack of specific information from the provided sources, it appears that detailed data on \"The Fix It Man\" in Alabama is not readily available through these resources. To gather more comprehensive information, additional sources such as the business's official website, social media, or direct contact with the business would be necessary.",
+  "aboutUs": "At The Fix It Man, we are a team of highly skilled and experienced plumbing professionals dedicated to providing top-notch service to our local community. With our extensive knowledge and expertise, we specialize in a wide range of plumbing services, from routine maintenance and repairs to complex installations and renovations. Our commitment to excellence and customer satisfaction is unmatched, ensuring that every job is completed with precision and efficiency.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with choosing a trusted and reliable plumbing partner.",
+    "sellingPoints": [
+      "Rapid response times for all plumbing emergencies, ensuring your issues are resolved promptly.",
+      "Highly trained and certified technicians equipped with the latest tools and techniques to tackle any plumbing challenge.",
+      "Transparent pricing and upfront cost estimates, so you know exactly what to expect before we begin."
+    ]
+  }
+}

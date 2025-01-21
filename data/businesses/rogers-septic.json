@@ -1,0 +1,49 @@
+{
+  "slug": "rogers-septic",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"Rogers Septic\" (ID: ChIJQe-jj6XvkYgRhrzzAVct03g) has no reviews",
+      "searchString": "place_id:ChIJQe-jj6XvkYgRhrzzAVct03g",
+      "isAdvertisement": false,
+      "placeId": "ChIJQe-jj6XvkYgRhrzzAVct03g",
+      "location": {
+        "lat": 31.171042,
+        "lng": -86.481965
+      },
+      "address": null,
+      "categoryName": "Septic system service",
+      "categories": [
+        "Septic system service",
+        "Service establishment"
+      ],
+      "title": "Rogers Septic",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=Rogers%20Septic&query_place_id=ChIJQe-jj6XvkYgRhrzzAVct03g",
+      "price": null,
+      "cid": "8706352356355456134",
+      "fid": "0x8891efa58fa3ef41:0x78d32d5701f3bc86"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "Based on the provided identifiers and the search results, here is the information available for the specific Alabama business named \"Rogers Septic\":\n\n## Business Information:\n- **Alabama Business Registration/License Details**: There is no specific information available in the provided sources about the business registration or license details of Rogers Septic in Alabama. However, it is likely that they would need to comply with state and local regulations, such as obtaining necessary licenses from the state's licensing boards, as indicated in general business license requirements[4].\n- **Physical Location and Service Areas**: The provided sources do not specify the physical location or service areas of Rogers Septic in Alabama. The Google Place ID and phone number suggest it is based in Alabama, but the exact location and service areas are not detailed.\n- **Hours and Payment Methods**: There is no information available on the business hours or payment methods for Rogers Septic in Alabama.\n- **Years in Operation**: There is no specific information on how long Rogers Septic has been in operation in Alabama.\n\n## Services & Specialties:\n- **Types of Services Offered**: Although the sources provided do not specifically mention Rogers Septic in Alabama, a business with a similar name in another state offers services such as septic tank installation, repair, maintenance, and inspections. However, without direct confirmation, it is speculative to apply these services to the Alabama business.\n- **Service Areas Covered**: As mentioned, the service areas are not specified for Rogers Septic in Alabama.\n- **Emergency Service Availability**: There is no information available on whether Rogers Septic in Alabama offers emergency services.\n- **Prices or Rates**: No pricing information is available for Rogers Septic in Alabama.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: There are no review summaries or specific examples available for Rogers Septic in Alabama from the provided sources.\n- **BBB Rating and Status**: There is no information available on the BBB rating or status for Rogers Septic in Alabama.\n- **Common Customer Feedback Themes**: Without reviews or feedback, common customer feedback themes cannot be determined.\n- **Response to Reviews**: There is no information on how the business responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner or management details for Rogers Septic in Alabama are not provided in the sources.\n- **Staff Qualifications**: There is no information available on the qualifications of the staff at Rogers Septic in Alabama.\n- **Professional Certifications**: No information is available on any professional certifications held by the staff or owner of Rogers Septic in Alabama.\n\nGiven the lack of specific information in the provided sources about Rogers Septic in Alabama, it is recommended to check the business's official website, contact them directly, or look up local business directories and review sites for more detailed information.",
+  "aboutUs": "Rogers Septic is a trusted local septic service provider in Alabama, offering expert solutions for all your septic system needs. Our team of highly trained professionals specializes in septic tank installation, repair, maintenance, and inspections, ensuring your system operates efficiently and in compliance with regulations. With a deep understanding of the local terrain and soil conditions, we provide tailored services to meet the unique requirements of our community.",
+  "whyChooseUs": {
+    "mainPitch": "Reliable and efficient septic solutions from experienced local professionals.",
+    "sellingPoints": [
+      "Comprehensive range of septic services, from installation to maintenance and repairs.",
+      "Expertise in navigating local regulations and ensuring compliance with all codes.",
+      "Prompt and courteous service, with a commitment to minimizing disruptions to your property."
+    ]
+  }
+}

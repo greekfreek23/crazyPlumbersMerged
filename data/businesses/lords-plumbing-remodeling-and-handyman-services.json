@@ -1,0 +1,68 @@
+{
+  "slug": "lords-plumbing-remodeling-and-handyman-services",
+  "googleReviewsBySlug.json": [
+    {
+      "searchString": "place_id:ChIJKymItkgshogRXxrGSW2SPAA",
+      "name": "Steven Perry",
+      "text": "They had a fast response",
+      "textTranslated": null,
+      "publishAt": "3 years ago",
+      "publishedAtDate": "2021-08-05T18:06:48.903Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNhMVl2QmtRRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNhMVl2QmtRRRAB!2m1!1s0x0:0x3c926d49c61a5f!3m1!1s2@1:CIHM0ogKEICAgICa1YvBkQE%7CCgwIuNGwiAYQkN3QrgM%7C?hl=en",
+      "reviewerId": "115839758423724020749",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115839758423724020749?hl=en",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLj_k96skuXAaHRpZSlJKGerib5_u6kufr_qDduLxCuPxYsSg=s120-c-rp-mo-br100",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {
+        "null": "Yes"
+      },
+      "reviewDetailedRating": {},
+      "isAdvertisement": false,
+      "placeId": "ChIJKymItkgshogRXxrGSW2SPAA",
+      "location": {
+        "lat": 33.6622164,
+        "lng": -87.6141175
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Bathroom remodeler",
+        "Deck builder",
+        "Service establishment",
+        "Flooring contractor",
+        "Handyman/Handywoman/Handyperson",
+        "Kitchen remodeler",
+        "Painting",
+        "Tile contractor"
+      ],
+      "title": "Lords plumbing, remodeling & handyman services",
+      "totalScore": 4,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 1,
+      "url": "https://www.google.com/maps/search/?api=1&query=Lords%20plumbing%2C%20remodeling%20%26%20handyman%20services&query_place_id=ChIJKymItkgshogRXxrGSW2SPAA",
+      "price": null,
+      "cid": "17049496689449567",
+      "fid": "0x88862c48b688292b:0x3c926d49c61a5f"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "2021-08-05",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}

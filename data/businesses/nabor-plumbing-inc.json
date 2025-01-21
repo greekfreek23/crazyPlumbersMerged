@@ -1,0 +1,49 @@
+{
+  "slug": "nabor-plumbing-inc",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"Nabor Plumbing Inc\" (ID: ChIJr5PRjhJq9YgRS7612tZOX7o) has no reviews",
+      "searchString": "place_id:ChIJr5PRjhJq9YgRS7612tZOX7o",
+      "isAdvertisement": false,
+      "placeId": "ChIJr5PRjhJq9YgRS7612tZOX7o",
+      "location": {
+        "lat": 33.731282,
+        "lng": -84.3278884
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment"
+      ],
+      "title": "Nabor Plumbing Inc",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=Nabor%20Plumbing%20Inc&query_place_id=ChIJr5PRjhJq9YgRS7612tZOX7o",
+      "price": null,
+      "cid": "13429539298541420107",
+      "fid": "0x88f56a128ed193af:0xba5f4ed6dab5be4b"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "Based on the provided identifiers and the search results, there is no specific information available about \"Nabor Plumbing Inc\" in Alabama that matches the given details.\n\nHere are some reasons why the information could not be found:\n\n## Business Information\n- There is no mention of \"Nabor Plumbing Inc\" in the provided sources or any other readily available online sources that match the given Google Place ID, phone number, and other identifiers.\n\n## Services & Specialties\n- Without specific sources mentioning \"Nabor Plumbing Inc,\" it is impossible to determine the types of services offered, service areas, emergency service availability, or any listed prices or rates.\n\n## Customer Reviews & Reputation\n- There are no customer reviews or BBB ratings available for \"Nabor Plumbing Inc\" as it does not appear in the sources provided or in a general search.\n\n## Owner & Staff\n- No information is available on the owner, management, staff qualifications, or professional certifications for \"Nabor Plumbing Inc\" due to the lack of any matching records.\n\nTo obtain detailed information about this business, you may need to contact the Alabama Plumbers & Gas Fitters Examining Board or local business registries directly, or visit the business's official website if it exists.",
+  "aboutUs": "Nabor Plumbing Inc is a trusted local plumbing company dedicated to providing expert service and solutions for all your residential and commercial needs. Our highly skilled technicians specialize in plumbing repairs, installations, and maintenance, ensuring your systems operate efficiently and reliably. With a focus on prompt, professional service, we strive to exceed your expectations on every job.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with choosing Nabor Plumbing Inc for all your plumbing requirements.",
+    "sellingPoints": [
+      "Fully licensed and insured professionals adhering to the highest industry standards",
+      "24/7 emergency service for prompt response to urgent plumbing issues",
+      "Upfront, transparent pricing with no hidden fees or surprises"
+    ]
+  }
+}

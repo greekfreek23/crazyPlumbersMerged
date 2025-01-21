@@ -1,0 +1,40 @@
+{
+  "slug": "lakeith's-plumbing-and-electric-llc",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"Lakeith's Plumbing & Electric LLC\" (ID: ChIJv04uAWPSVQcRjJwsj-_SN4M) has no reviews",
+      "searchString": "place_id:ChIJv04uAWPSVQcRjJwsj-_SN4M",
+      "isAdvertisement": false,
+      "placeId": "ChIJv04uAWPSVQcRjJwsj-_SN4M",
+      "location": {
+        "lat": 34.4677924,
+        "lng": -85.9392296
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Electrician",
+        "Service establishment"
+      ],
+      "title": "Lakeith's Plumbing & Electric LLC",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=Lakeith's%20Plumbing%20%26%20Electric%20LLC&query_place_id=ChIJv04uAWPSVQcRjJwsj-_SN4M",
+      "price": null,
+      "cid": "9455257869028727948",
+      "fid": "0x755d263012e4ebf:0x8337d2ef8f2c9c8c"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}

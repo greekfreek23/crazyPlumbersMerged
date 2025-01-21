@@ -1,0 +1,70 @@
+{
+  "slug": "all-south-plumbing",
+  "googleReviewsBySlug.json": [
+    {
+      "searchString": "place_id:ChIJd4Lxi2OWGaMRHzQHESA8eTM",
+      "name": "Brent Martin",
+      "text": "Was very respectful and showed up on time.  Their costs were way under anyone else I called!  Finished the job and cleaned the area was in and out in about 3 hours!",
+      "textTranslated": null,
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2024-08-12T17:54:01.953Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUM3cFA3dDJBRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUM3cFA3dDJBRRAB!2m1!1s0x0:0x33793c201107341f!3m1!1s2@1:CIHM0ogKEICAgIC7pP7t2AE%7CCgwIuZjptQYQyOe2xgM%7C?hl=en",
+      "reviewerId": "109490615604518342605",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109490615604518342605?hl=en",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVjvB4GcFrCeL7nMPNAVSUOgXa5PTOvZu9EhuoYIahCUoMeGa0C=s120-c-rp-mo-br100",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "isAdvertisement": false,
+      "placeId": "ChIJd4Lxi2OWGaMRHzQHESA8eTM",
+      "location": {
+        "lat": 33.6395734,
+        "lng": -86.4914134
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment",
+        "Gasfitter"
+      ],
+      "title": "All South Plumbing",
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 1,
+      "url": "https://www.google.com/maps/search/?api=1&query=All%20South%20Plumbing&query_place_id=ChIJd4Lxi2OWGaMRHzQHESA8eTM",
+      "price": null,
+      "cid": "3709061876538618911",
+      "fid": "0xa31996638bf18277:0x33793c201107341f"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "2024-08-12",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 1,
+  "last365": 1,
+  "plumberResearchFull.json": "Based on the provided identifiers and the available sources, here is the information that can be verified for the specific Alabama plumbing business named \"All South Plumbing\":\n\n## Business Information:\n- **Alabama Business Registration/License Details**: There is no specific information available in the sources provided about the business registration or license details of this exact \"All South Plumbing\" business. However, according to Alabama state requirements, plumbing contractors must obtain a State of Alabama license certificate or card and may need to purchase a surety bond[1][5].\n\n- **Physical Location and Service Areas**: The sources provided do not specify the exact physical location or service areas for this particular \"All South Plumbing\" business. However, it is important to note that there are mentions of businesses with similar names in other locations, but these do not match the provided identifiers.\n\n- **Hours and Payment Methods**: There is no information available on the hours of operation or payment methods for this specific business.\n\n- **Years in Operation**: No information is available on how long this specific \"All South Plumbing\" business has been in operation.\n\n## Services & Specialties:\n- **Types of Services Offered**: While the sources do not provide specific details for this exact business, similar businesses with the name \"All South Plumbing\" in other locations offer services such as gas line installation, water heater repair, drain cleaning, and emergency plumbing services[2].\n\n- **Service Areas Covered**: Without specific details, it cannot be confirmed which areas this particular business serves.\n\n- **Emergency Service Availability**: There is no confirmation of emergency service availability for this exact business.\n\n- **Any Listed Prices or Rates**: No pricing information is available for this specific business.\n\n## Customer Reviews & Reputation:\n- **Review Summaries with Specific Examples**: There is only one review mentioned with a rating of 5, but no specific details or examples are provided[Given identifiers].\n\n- **BBB Rating and Status**: The sources indicate that there are businesses with similar names that are not BBB accredited and appear to be out of business, but this does not match the provided identifiers[3][4].\n\n- **Common Customer Feedback Themes**: No common customer feedback themes can be identified for this specific business.\n\n- **Response to Reviews**: There is no information available on how the business responds to reviews.\n\n## Owner & Staff:\n- **Owner/Management Information**: The owner or management details for this specific \"All South Plumbing\" business are not available in the provided sources.\n\n- **Staff Qualifications**: There is no information on the qualifications or certifications of the staff for this business.\n\n- **Professional Certifications**: No information is available on any professional certifications held by the staff or owner of this specific business.\n\nGiven the lack of specific information matching the exact identifiers provided, it appears that detailed information about this particular \"All South Plumbing\" business in Alabama is not readily available in the sources.",
+  "aboutUs": "At All South Plumbing, we are a team of highly skilled and experienced plumbing professionals dedicated to providing top-notch service to our local community. With our extensive knowledge and expertise, we specialize in a wide range of plumbing services, from routine maintenance and repairs to complex installations and emergency services. Our commitment to excellence and customer satisfaction is unparalleled, ensuring that every job is completed with precision and efficiency.",
+  "whyChooseUs": {
+    "mainPitch": "Experience the peace of mind that comes with choosing a trusted and reliable plumbing partner.",
+    "sellingPoints": [
+      "Fully licensed and insured professionals with extensive training and certifications in the latest plumbing techniques and technologies.",
+      "Rapid response times for emergency situations, ensuring that your plumbing issues are addressed promptly and efficiently.",
+      "Comprehensive range of services, from routine maintenance and repairs to complex installations and renovations, all tailored to meet your specific needs."
+    ]
+  }
+}

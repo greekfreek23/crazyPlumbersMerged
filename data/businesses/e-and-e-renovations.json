@@ -1,0 +1,40 @@
+{
+  "slug": "e-and-e-renovations",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"E & E Renovations\" (ID: ChIJK5jCiD3_B0oRAVuHwqd0CYI) has no reviews",
+      "searchString": "place_id:ChIJK5jCiD3_B0oRAVuHwqd0CYI",
+      "isAdvertisement": false,
+      "placeId": "ChIJK5jCiD3_B0oRAVuHwqd0CYI",
+      "location": {
+        "lat": 33.3486254,
+        "lng": -86.7317875
+      },
+      "address": null,
+      "categoryName": "Remodeler",
+      "categories": [
+        "Remodeler",
+        "Service establishment"
+      ],
+      "title": "E & E Renovations",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=E%20%26%20E%20Renovations&query_place_id=ChIJK5jCiD3_B0oRAVuHwqd0CYI",
+      "price": null,
+      "cid": "9370148763593038593",
+      "fid": "0x4a07ff3d88c2982b:0x820974a7c2875b01",
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMjUWirmGoZTNNy7eBA5bS__QsSHj7v1b6cFkLK=w408-h306-k-no"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}

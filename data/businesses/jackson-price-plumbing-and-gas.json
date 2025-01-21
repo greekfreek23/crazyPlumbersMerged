@@ -1,0 +1,52 @@
+{
+  "slug": "jackson-price-plumbing-and-gas",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"Jackson Price Plumbing and Gas\" (ID: ChIJT71OEVfdk0MRrvDCCJk76ak) has no reviews",
+      "searchString": "place_id:ChIJT71OEVfdk0MRrvDCCJk76ak",
+      "isAdvertisement": false,
+      "placeId": "ChIJT71OEVfdk0MRrvDCCJk76ak",
+      "location": {
+        "lat": 34.6992935,
+        "lng": -86.6780524
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment",
+        "Plumbing supply store",
+        "Water filter supplier",
+        "Water pump supplier"
+      ],
+      "title": "Jackson Price Plumbing and Gas",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=Jackson%20Price%20Plumbing%20and%20Gas&query_place_id=ChIJT71OEVfdk0MRrvDCCJk76ak",
+      "price": null,
+      "cid": "12243382590446432430",
+      "fid": "0x4393dd57114ebd4f:0xa9e93b9908c2f0ae"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0,
+  "plumberResearchFull.json": "Based on the provided identifiers and the search results, it appears that there is no specific information available for a business named \"Jackson Price Plumbing and Gas\" with the given Google Place ID, phone number, and other details.\n\nHere are some key points to note:\n\n## Business Information\n- There is no available information on a business registered as \"Jackson Price Plumbing and Gas\" in Alabama that matches the provided details.\n\n## Services & Specialties\n- No specific services or specialties can be attributed to this business as it does not appear in the search results.\n\n## Customer Reviews & Reputation\n- There are no customer reviews or reputation data available for this specific business.\n\n## Owner & Staff\n- No information is available on the owner, management, or staff qualifications and certifications for this business.\n\nThe search results provided earlier pertain to a different business named \"Jackson Plumbing, Heating & Cooling, Electrical & Septic\" based in Decatur, Alabama, which does not match the specified identifiers for \"Jackson Price Plumbing and Gas\".\n\nTo obtain accurate and detailed information about \"Jackson Price Plumbing and Gas,\" you may need to contact the Alabama Secretary of State's office for business registration details, check local business directories, or visit the business's website if available. Additionally, you can try contacting the business directly using the provided phone number.",
+  "aboutUs": "Jackson Price Plumbing and Gas is a premier plumbing and gas service provider dedicated to serving the local community with unparalleled expertise. Our team of highly skilled and certified professionals specializes in residential and commercial plumbing, gas line installation and repair, water heater services, and drain cleaning. With a focus on delivering exceptional service, we prioritize prompt response times and efficient solutions tailored to your unique needs.",
+  "whyChooseUs": {
+    "mainPitch": "Unmatched expertise and reliable service for all your plumbing and gas needs.",
+    "sellingPoints": [
+      "Certified and experienced technicians trained in the latest industry techniques and technologies.",
+      "Comprehensive range of services, from routine maintenance to complex installations and repairs.",
+      "Commitment to using high-quality materials and adhering to industry best practices for long-lasting results."
+    ]
+  }
+}

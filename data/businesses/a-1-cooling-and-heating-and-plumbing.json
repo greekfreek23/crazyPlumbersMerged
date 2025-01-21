@@ -1,0 +1,60 @@
+{
+  "slug": "a-1-cooling-and-heating-and-plumbing",
+  "googleReviewsBySlug.json": [
+    {
+      "searchString": "place_id:ChIJR4XtKuhtiYgRi4j3VhNZBQw",
+      "name": "Steve Summers",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 years ago",
+      "publishedAtDate": "2018-01-25T17:44:25.026Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURBbWFtRGlRRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURBbWFtRGlRRRAB!2m1!1s0x0:0xc05591356f7888b!3m1!1s2@1:CIHM0ogKEICAgIDAmamDiQE%7CCgsI-a6o0wUQgPWyDA%7C?hl=en",
+      "reviewerId": "115113976073616339268",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115113976073616339268?hl=en",
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKO6BC6wcRV5GbLrrYpXkHZefyOfr1eCxgGP0MYCugYZ34Tew=s120-c-rp-mo-br100",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "isAdvertisement": false,
+      "placeId": "ChIJR4XtKuhtiYgRi4j3VhNZBQw",
+      "location": {
+        "lat": 33.5556625,
+        "lng": -86.528877
+      },
+      "address": null,
+      "categoryName": "Air conditioning contractor",
+      "categories": [
+        "Air conditioning contractor",
+        "Service establishment",
+        "Plumber"
+      ],
+      "title": "A-1 COOLING & HEATING & PLUMBING",
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 1,
+      "url": "https://www.google.com/maps/search/?api=1&query=A-1%20COOLING%20%26%20HEATING%20%26%20PLUMBING&query_place_id=ChIJR4XtKuhtiYgRi4j3VhNZBQw",
+      "price": null,
+      "cid": "866196442937002123",
+      "fid": "0x88896de82aed8547:0xc05591356f7888b"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "2018-01-25",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}

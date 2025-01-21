@@ -1,0 +1,40 @@
+{
+  "slug": "perfect-piping-plumbing-gas-and-design",
+  "googleReviewsBySlug.json": [
+    {
+      "error": "no_reviews",
+      "errorDescription": "Place \"Perfect Piping Plumbing Gas & Design\" (ID: ChIJz53mtu0JmogR6vob15l9ctI) has no reviews",
+      "searchString": "place_id:ChIJz53mtu0JmogR6vob15l9ctI",
+      "isAdvertisement": false,
+      "placeId": "ChIJz53mtu0JmogR6vob15l9ctI",
+      "location": {
+        "lat": 30.5371965,
+        "lng": -87.70159
+      },
+      "address": null,
+      "categoryName": "Plumber",
+      "categories": [
+        "Plumber",
+        "Service establishment"
+      ],
+      "title": "Perfect Piping Plumbing Gas & Design",
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "reviewsCount": 0,
+      "url": "https://www.google.com/maps/search/?api=1&query=Perfect%20Piping%20Plumbing%20Gas%20%26%20Design&query_place_id=ChIJz53mtu0JmogR6vob15l9ctI",
+      "price": null,
+      "cid": "15164320995002284778",
+      "fid": "0x889a09edb6e69dcf:0xd2727d99d71bfaea",
+      "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipNgDNg3ZMJfaDdIprd05FvDdPZ_o26x7KUJtODB=w408-h528-k-no"
+    }
+  ],
+  "ownerName": "Unknown",
+  "ownerConfidence": 0,
+  "servicesMentioned": [],
+  "firstReviewDate": "N/A",
+  "last30": 0,
+  "last60": 0,
+  "last90": 0,
+  "last180": 0,
+  "last365": 0
+}
